@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sub0101
-- 👀 I’m interested in web development , algorithm
-- 🌱 I’m currently learning python , django_framework
+- 👀 I’m interested in Android Development , algorithm
+- 🌱 I’m currently learning Android Development,java
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me - surajbisht0101@gmail.com
 
